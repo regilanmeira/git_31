@@ -13,6 +13,7 @@
     <a href="pagina1.php">Ir para página 1</a>
     <form action="">
         <input type="button" value="Elis">
+        <input type="button" value="Regilan">
     </form>
 
 </body>
